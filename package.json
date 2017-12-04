@@ -14,5 +14,7 @@
   },
   "homepage": "https://github.com/grandemayta/digital-tools#readme",
   "devDependencies": {
+    "path": "^0.12.7",
+    "webpack": "^3.9.1"
   }
 }

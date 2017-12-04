@@ -1,3 +1,5 @@
+import messages from './messages';
+
 initMessageSelected();
 
 function initMessageSelected() {

@@ -1,0 +1,21 @@
+{
+  "name": "digital-tools",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "gulp dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grandemayta/digital-tools.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grandemayta/digital-tools/issues"
+  },
+  "homepage": "https://github.com/grandemayta/digital-tools#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.4.0",
+    "gulp-concat": "^2.6.1"
+  }
+}
